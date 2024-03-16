@@ -3,12 +3,13 @@ import random
 
 class Shooter:
     def __init__(self, name, age, experience):
+        self.shoot_probability = None
         self.__name = name
         self.__age = age
-        self.__experience = experience
+        self.experience = experience
 
     def shoot_probability(self):
-        self.shoot_probability = 0.02 * self.__experience * 100
+        self.shoot_probability = 0.02 * self.experience * 100
         return int(self.shoot_probability)
 
     def shoot(self):
@@ -27,7 +28,7 @@ class Shooter:
         return self.__age
 
     def get_experience(self):
-        return self.__experience
+        return self.experience
 
     def set_name(self):
         return self.__name
@@ -36,4 +37,4 @@ class Shooter:
         return self.__age
 
     def set_experience(self):
-        return self.__experience
+        return self.experience
