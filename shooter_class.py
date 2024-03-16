@@ -1,32 +1,28 @@
 class Shooter:
-    def __init__(self, name, age, experience, shoot_rate):
-        self.__name = name
-        self.__age = age
-        self.__experience = experience
-        self.__shoot_rate = shoot_rate
+    def __init__(self, name, years_old, experience, shoot_rate):
+        self.name = name
+        self.years_old = years_old
+        self.experience = experience
+        self.shooting_experience = shoot_rate
 
     def shoot_probability(self):
-        shoot_probability = self.__shoot_rate * self.__experience
+        shoot_probability = self.shooting_experience * self.experience
         return shoot_probability
 
     def get_name(self):
-        return self.__name
+        return self.name
 
     def get_age(self):
-        return self.__age
+        return self.years_old
 
     def get_experience(self):
-        return self.__experience
+        return self.experience
 
     def set_name(self):
-        return self.__name
+        return self.name
 
     def set_age(self):
-        return self.__age
+        return self.years_old
 
     def set_experience(self):
-        return self.__experience
-
-
-
-
+        return self.experience
