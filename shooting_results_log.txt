@@ -1,0 +1,91 @@
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: False
+
+!!!!!!Suren is winner!!!!!
+Shooter name: Suren,
+Shooter age: 32,
+Shooter passport: AP1234567,
+Shooter experience: 4,
+Shooting result: True
+

@@ -14,7 +14,6 @@ class Shooter:
         self.shoot_probability = 0.02 * self.experience * 100
         return self.shoot_probability
 
-
     def shoot(self):
 
         random_number = random.randint(1, 100)
@@ -29,4 +28,3 @@ class Shooter:
 
     def set_passport(self):
         return self.__passport
-
