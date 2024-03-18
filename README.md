@@ -1,5 +1,7 @@
-Project 1: Shooter Target Practice
-Description
+Shooter Target Practice
+
+Description:
+
 This program simulates a shooting competition where shooters of different skill levels attempt to hit a target. Shooters are divided into three groups: Novice, Experienced, and Expert. Each shooter has a name, age, and shooting experience.
 
 
