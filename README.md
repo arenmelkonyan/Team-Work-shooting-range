@@ -34,6 +34,9 @@ Running the Program
 To run the program, execute the main.py file. Ensure all Python files are in the same directory.
 
 OOP Concepts
+
 Encapsulation: Attributes and methods are encapsulated within classes to ensure data integrity and protect implementation details.
+
 Inheritance: Subclasses inherit attributes and methods from the base Shooter class, promoting code reusability.
+
 Polymorphism: The fire() method is implemented differently in each subclass, demonstrating polymorphic behavior.
