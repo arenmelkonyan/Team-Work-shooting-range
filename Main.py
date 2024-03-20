@@ -9,17 +9,25 @@ experienced_2 = Experienced('Sona', 35, 'AG1561681', 7)
 beginner_2 = Beginner('Karlen', 17, 'AN45861', 2)
 
 player_lst = [beginner_1, expert]
+shoot_time = 1
+check = 0
+while check == 0:
+    for o in (beginner_1, experienced_1, expert, experienced_2, beginner_2):
 
-for o in (beginner_1,experienced_1, expert, experienced_2, beginner_2):
+        if not o.shoot():
+            file = open('shooting_results_log.txt', 'a')
+            file.write('Shoot: ' + str(shoot_time) + '\n' + '\n')
+            file.write(o.display_info() + '\n' + '\n')
+            shoot_time += 1
+            file.close()
+            check = 0
 
-    while not o.shoot():
-        file = open('shooting_results_log.txt', 'a')
-        file.write(o.display_info() + '\n' + '\n')
-        file.close()
-    else:
-        file = open('shooting_results_log.txt', 'a')
-        file.write(f'!!!!!!{o.name} is winner!!!!!\n')
-        file.write(o.display_info() + '\n' + '\n')
-        file.close()
-        break
-
+        else:
+            file = open('shooting_results_log.txt', 'a')
+            file.write('Shoot: ' + str(shoot_time) + '\n' + '\n')
+            file.write(f'!!!!!!{o.name} is winner!!!!!\n')
+            file.write(o.display_info() + '\n' + '\n')
+            shoot_time += 1
+            file.close()
+            check = 1
+            break

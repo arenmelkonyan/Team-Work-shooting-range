@@ -1,8 +1,4 @@
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
+Shoot: 1
 
 Shooter name: Suren,
 Shooter age: 32,
@@ -10,11 +6,39 @@ Shooter passport: AP1234567,
 Shooter experience: 4,
 Shooting result: False
 
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
+Shoot: 2
+
+Shooter name: Klara,
+Shooter age: 25,
+Shooter passport: AL418151,
+Shooter experience: 8,
 Shooting result: False
+
+Shoot: 3
+
+Shooter name: Jorik,
+Shooter age: 40,
+Shooter passport: AN245847,
+Shooter experience: 17,
+Shooting result: False
+
+Shoot: 4
+
+Shooter name: Sona,
+Shooter age: 35,
+Shooter passport: AG1561681,
+Shooter experience: 7,
+Shooting result: False
+
+Shoot: 5
+
+Shooter name: Karlen,
+Shooter age: 17,
+Shooter passport: AN45861,
+Shooter experience: 2,
+Shooting result: False
+
+Shoot: 6
 
 Shooter name: Suren,
 Shooter age: 32,
@@ -22,11 +46,39 @@ Shooter passport: AP1234567,
 Shooter experience: 4,
 Shooting result: False
 
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
+Shoot: 7
+
+Shooter name: Klara,
+Shooter age: 25,
+Shooter passport: AL418151,
+Shooter experience: 8,
 Shooting result: False
+
+Shoot: 8
+
+Shooter name: Jorik,
+Shooter age: 40,
+Shooter passport: AN245847,
+Shooter experience: 17,
+Shooting result: False
+
+Shoot: 9
+
+Shooter name: Sona,
+Shooter age: 35,
+Shooter passport: AG1561681,
+Shooter experience: 7,
+Shooting result: False
+
+Shoot: 10
+
+Shooter name: Karlen,
+Shooter age: 17,
+Shooter passport: AN45861,
+Shooter experience: 2,
+Shooting result: False
+
+Shoot: 11
 
 Shooter name: Suren,
 Shooter age: 32,
@@ -34,58 +86,12 @@ Shooter passport: AP1234567,
 Shooter experience: 4,
 Shooting result: False
 
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
+Shoot: 12
 
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
-
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
-
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
-
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
-
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
-
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
-
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
-Shooting result: False
-
-!!!!!!Suren is winner!!!!!
-Shooter name: Suren,
-Shooter age: 32,
-Shooter passport: AP1234567,
-Shooter experience: 4,
+!!!!!!Klara is winner!!!!!
+Shooter name: Klara,
+Shooter age: 25,
+Shooter passport: AL418151,
+Shooter experience: 8,
 Shooting result: True
 
