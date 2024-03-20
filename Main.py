@@ -13,7 +13,6 @@ shoot_time = 1
 check = 0
 while check == 0:
     for o in (beginner_1, experienced_1, expert, experienced_2, beginner_2):
-
         if not o.shoot():
             file = open('shooting_results_log.txt', 'a')
             file.write('Shoot: ' + str(shoot_time) + '\n' + '\n')
