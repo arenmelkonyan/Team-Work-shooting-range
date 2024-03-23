@@ -4,4 +4,5 @@ class Person:
         self.age = age
         
     def greet(self,other_person):
-        pass
+        self.other_person = other_person
+    pass
